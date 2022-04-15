@@ -1,2 +1,2 @@
 # Data-Structures-Algorithms in C++
-For all my C++ data structures and algorithms
+This repo contains code for C++ data structures and algorithms. Included data structures include linked lists
