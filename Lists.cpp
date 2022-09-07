@@ -34,5 +34,15 @@ int main()
 	cout << "Second num is: " << head->link->info << endl;
 	cout << "Third num is: " << secondptr->link->info << endl;
 	
+	
 	return 0;
 }
+
+
+	**OUTPUT OF THE PROGRAM**
+
+	First num is: 12
+	Second num is: 14
+	Third num is: 1000
+	
+	
