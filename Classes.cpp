@@ -152,4 +152,15 @@ int main()
 	return 0;
 } //end of main 
 
+**OUPUT OF THE PROGRAM**
+Line 9: myClock: 00: 00: 386310432
+Line 12: yourClock: 22068: 1578611248: 32766
+Line 16: After setting yourClock: 05: 45: 16
+Line 22: Both times are not equal.
+Line 23: Enter the hours, minutes and seconds: 12:20:16
+Line 27: New myClock: 12: 00: 22068
+Line 31: After incrementing myClock by one second, myClock: 12: 01: 00
+Line 35: hours = 12, minutes = 1, seconds = 0
+
+
 
